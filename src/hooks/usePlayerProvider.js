@@ -64,4 +64,4 @@ const useMusicPlayer = () => {
   };
 };
 
-export default useMusicPlayer;
+export default useMusicPlayer
